@@ -1,0 +1,17 @@
+Glosar de termeni - Laur
+Definirea cerintelor utilizator - Bogdan
+Cazuri de utilizare(USE CASE) = Erik & Georgi
+
+
+ //Descrierea scenariilor punctand ce scrie in doc. la final cu actorii implicati, mediu etc
+Diagrame de secventa = Catalin
+Modele de stare = Madalin & Goergi & Erik
+Interfete cu alte sisteme = Adrian & Andrei
+Planificarea lucrarilor
+//O scurta descriere si SS
+
+
+Interfata cu utilizatorul - Bogdan & Madalin
+
+Structuri de date si fisiere - Georgi & Erik
+Tiparirea la imprimanta - Ad & Andrei Filip

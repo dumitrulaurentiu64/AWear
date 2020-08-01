@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\8bc185e93937bef25a5b96971ab75702\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\241329d17873eedd0a36ca478c56c853\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\bfe864756739893f9dbd691953c40f20\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\34412abcf456673bca73faa3e4242b54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\6730d99a43b3e546f859044b3449c355\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\730d5df95d6fb7ac13911b72d75e089c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\59a33663615b1a6d4e86d1a8f19f1fc5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\88d631a1234bcd02cfae844acffe285a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\319a00f54a83701c5a2ad29c8d19dfa3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\86b41d1909463d60e39b353e5671f039\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\df4e346cc87afdbc0edbc1d55870a15c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\d9f5e009971d08962f52645c615a09fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\3f7bf3a5db7f201220954523d135d80f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\5f7960b87a45c6feb2be6c9fb8f63a6e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\e22541b7ea314d5458bea16c09cd6844\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\e8d20c6927ee163cfd7c26dec49083f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\d3ac0d4ca8336aa5e344efb9966b52eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\9dad0031a0ca7dcdfa3e4cfafd11d0f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\b835d255c6489e4b88198ae88e322bba\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\c9a1b4707c4f19e2de628a04284d55e1\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\a18b52909a88a8763e7fef5100bc6770\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\0d822dbffc03ac104b978d59d55a2de6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\f4e5c1b2127a9ad5fabb4520ee5152bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\4f63a1d2ab6a575ce26b20db1c74d4fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\cd91520a8b79ca4fe72fec93de7e5361\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\598cf790530558e5947f79adbb63bebb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\92d07e744d2c92a67e04a301ab521ff6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\4e4575022af976f6c46331ec5ff26432\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\b0e903cf0a52e8a52a1379c948d0aaa1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\e5b0e311244248103a366f56788cf723\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\7d2491cbe6b5c84c782ebc79c9bb4d9d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:9:5-20:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\8bc185e93937bef25a5b96971ab75702\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\8bc185e93937bef25a5b96971ab75702\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\bfe864756739893f9dbd691953c40f20\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\bfe864756739893f9dbd691953c40f20\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\b835d255c6489e4b88198ae88e322bba\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\b835d255c6489e4b88198ae88e322bba\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\c9a1b4707c4f19e2de628a04284d55e1\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\c9a1b4707c4f19e2de628a04284d55e1\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\b835d255c6489e4b88198ae88e322bba\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.awear.MainActivity
+ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:16:9-19:20
+	android:label
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml:17:13-41
+uses-sdk
+INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\8bc185e93937bef25a5b96971ab75702\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\8bc185e93937bef25a5b96971ab75702\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\241329d17873eedd0a36ca478c56c853\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\241329d17873eedd0a36ca478c56c853\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\bfe864756739893f9dbd691953c40f20\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\bfe864756739893f9dbd691953c40f20\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\34412abcf456673bca73faa3e4242b54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\34412abcf456673bca73faa3e4242b54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\6730d99a43b3e546f859044b3449c355\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\6730d99a43b3e546f859044b3449c355\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\730d5df95d6fb7ac13911b72d75e089c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\730d5df95d6fb7ac13911b72d75e089c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\59a33663615b1a6d4e86d1a8f19f1fc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\59a33663615b1a6d4e86d1a8f19f1fc5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\88d631a1234bcd02cfae844acffe285a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\88d631a1234bcd02cfae844acffe285a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\319a00f54a83701c5a2ad29c8d19dfa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\319a00f54a83701c5a2ad29c8d19dfa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\86b41d1909463d60e39b353e5671f039\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\86b41d1909463d60e39b353e5671f039\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\df4e346cc87afdbc0edbc1d55870a15c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\df4e346cc87afdbc0edbc1d55870a15c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\d9f5e009971d08962f52645c615a09fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\d9f5e009971d08962f52645c615a09fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\3f7bf3a5db7f201220954523d135d80f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\3f7bf3a5db7f201220954523d135d80f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\5f7960b87a45c6feb2be6c9fb8f63a6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\5f7960b87a45c6feb2be6c9fb8f63a6e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\e22541b7ea314d5458bea16c09cd6844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\e22541b7ea314d5458bea16c09cd6844\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\e8d20c6927ee163cfd7c26dec49083f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\e8d20c6927ee163cfd7c26dec49083f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\d3ac0d4ca8336aa5e344efb9966b52eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\d3ac0d4ca8336aa5e344efb9966b52eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\9dad0031a0ca7dcdfa3e4cfafd11d0f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\9dad0031a0ca7dcdfa3e4cfafd11d0f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\b835d255c6489e4b88198ae88e322bba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\b835d255c6489e4b88198ae88e322bba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\c9a1b4707c4f19e2de628a04284d55e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\c9a1b4707c4f19e2de628a04284d55e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\a18b52909a88a8763e7fef5100bc6770\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\a18b52909a88a8763e7fef5100bc6770\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\0d822dbffc03ac104b978d59d55a2de6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\0d822dbffc03ac104b978d59d55a2de6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\f4e5c1b2127a9ad5fabb4520ee5152bc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\f4e5c1b2127a9ad5fabb4520ee5152bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\4f63a1d2ab6a575ce26b20db1c74d4fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\4f63a1d2ab6a575ce26b20db1c74d4fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\cd91520a8b79ca4fe72fec93de7e5361\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\cd91520a8b79ca4fe72fec93de7e5361\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\598cf790530558e5947f79adbb63bebb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\598cf790530558e5947f79adbb63bebb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\92d07e744d2c92a67e04a301ab521ff6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\92d07e744d2c92a67e04a301ab521ff6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\4e4575022af976f6c46331ec5ff26432\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\4e4575022af976f6c46331ec5ff26432\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\b0e903cf0a52e8a52a1379c948d0aaa1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\b0e903cf0a52e8a52a1379c948d0aaa1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\e5b0e311244248103a366f56788cf723\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\e5b0e311244248103a366f56788cf723\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\7d2491cbe6b5c84c782ebc79c9bb4d9d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\robert.diaconu\.gradle\caches\transforms-2\files-2.1\7d2491cbe6b5c84c782ebc79c9bb4d9d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\robert.diaconu\Desktop\awear\awear\03_Source\02_SmartApp\AwearApp\app\src\main\AndroidManifest.xml

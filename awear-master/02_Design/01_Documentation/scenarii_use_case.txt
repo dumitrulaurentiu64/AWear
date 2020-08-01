@@ -1,0 +1,22 @@
+USE CASE 1: 
+	1.Adminul de sistem se logheaza in aplicatia cloud.
+	2.Acesta initilizeaza baza de date cu doctorii din institutie(spital).
+USE CASE 2:
+	1.Doctorul se logheaza in aplicatia web.
+	2.Autentificarea se face prin intermediul cloud-ului(aici avem stocate parole,informatii,etc)
+	3.Doctorul isi inregistreaza un nou pacient.
+	4.Datele pacientului sunt salvate in cloud.
+USE CASE 3:
+	1.Pacientul se logheaza in aplicatia mobila.
+	2.In aplicatia mobila se prelucreaza datele primite de la sistemul de achizitii.
+	3.Datele sunt stocate in cloud.
+	4.Datele sunt trimise la aplicatia web,unde doctorul poate vizualiza datele pacientului.
+	5.Pacientul isi poate vizualiza datele in aplicatia mobila.
+	6.Pacientul isi poate vizualiza in aplicatia web fisa,istoric,istoric alarme si avertizari.
+USE CASE 4:
+	1.Doctorul se logheaza in aplicatia web.
+	2.In aplicatia web doctorul defineste warning-uri si recomandari.
+	3.Warning-urile si recomandarile sunt stocate in cloud.
+	4.Pacientul se logheaza in aplicatia mobila.
+	5.Pacientul isi poate vizualiza warning-urile si recomandarile primite de la doctor prin aplicatia cloud.
+	

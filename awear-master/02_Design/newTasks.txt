@@ -1,0 +1,28 @@
+Arhitectura Sistemului
+	1. Tehnologi si medii de dezvolatare //Andrei Filip
+
+	2. Client-server( cate si care is intre cine) // YO! 
+	3. Modul in care functioneaza fiecare modul X
+	4. Diagrama clase (pe module)
+		4.1 Mobile //Catalin + Cristina
+		4.2 Backend //Adrian Balanescu si Andrei Filip
+	5. Mutare diagrame de stare. X
+
+Descrierea componentelor (modulelor)
+	1. Poza SA (Rx/Tx) X
+	2. Poza APS (Input/Output) X
+	3. Poza Cloud (end-points) X
+	4. Web fetches. //Georgiana si Erik
+
+Descrierea comunicarii intre module
+	1. Mutare Sequence Diagrams X
+	2. Detalii
+		2.1 Bluetooth sensor + library on SA //Madalin Filip + Laurentiu
+		2.2 Bluetooth sensor + library on APS //Catalin + Cristina
+		2.3 HTTP Requests on APS //Catalin + Cristina
+		2.4 HTTP Requests on CLOUD //Adrian Balanescu si Andrei Filip
+		2.5 HTTP Requests on WEB //Georgiana si Erik
+	(Cum se numesc librariile si ce functii au si ce fac)
+
+Baze de date
+	1. Poza DB X

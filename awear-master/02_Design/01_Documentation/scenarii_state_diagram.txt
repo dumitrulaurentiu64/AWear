@@ -1,0 +1,40 @@
+Diagrama de stare contine : 
+	->Stari : 
+		-Stare Initiala : 
+		    Descriere:
+				Toate SubSistemele sunt OFF. 
+				
+		-Stare ON:
+		    Descriere:
+				Toate SubSistemele  sunt ON.
+				
+		-Stare Autentificare:
+			Descriere:
+				Fie pacientul se autentifica in sistem , Fie doctorul se autentifica in sistem.
+				
+		Sesiune(Update continuu cu Aplicatia de Cloud):	
+			-Stare Pacient:
+				Pacientul incearca sa se logheze in Aplicatia de Mobil.
+					-Stare Error:
+						Stare in care trateaza erorile de autentificare
+					-Stare Vizualizare Date:
+						Pacientul isi poate vizualiza datele(parametrii de la Wearable plus Warnings si Recomandari de la Doctor).
+			
+			-Stare Doctor:
+				Doctorul incearca sa se logheze in Aplicatia WEB.
+					-Stare Error:
+						Stare in care trateaza erorile de autentificare
+					-Stare Vizualizare Date Pacient:
+						Doctorul poate vizualiza datele(parametrii de la Wearable ,date despre pacient)
+					-Stare Introducere Parametrii:
+						Doctorul poate introduce parametrii pentru Warning-uri si Recomandari
+						
+	->Tranzitii:
+			Eveniment Declansator Pentru Schimbare Stare/ Actiune efectuata in urma evenimentului
+		1.	SysOnFlag / Autentificare
+		2. 	LoginError/ HandleError(doctor si pacient)
+		3.	LoginSucc/Deschide View	(pacient)
+		4.	buttonPresed/Deschide View( doctor)				
+						
+						
+							

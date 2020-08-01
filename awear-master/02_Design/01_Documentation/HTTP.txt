@@ -1,0 +1,31 @@
+Pentru a trimite request-uri trebuie adaugata prima data o permisiune pentru internet : 
+	android.permission.INTERNET
+
+Pachetele necesare activitatii pentru a trimite "GET request" : 
+import com.android.volley.Request;
+import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.StringRequest;
+import com.android.volley.toolbox.Volley;
+
+Obtinem o conexiune HttpURLConnection apelând URL # openConnection () ?i transfera rezultatul catre HttpURLConnection.
+		HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
+
+  Instan?ele trebuie sa fie configurate cu setDoOutput (true) daca includ un Request.  Datelr se transmit prin scrierea în fluxul returnat de URLConnection.getOutputStream ().
+	urlConnection.setDoOutput(true);
+	OutputStream out = new BufferedOutputStream(urlConnection.getOutputStream());
+
+ Raspunsul poate fi citit din stream-ul returnat de URLConnection.getInputStream (). 
+	InputStream in = new BufferedInputStream(urlConnection.getInputStream());
+
+    Odata ce raspunsul a fost citit, HttpURLConnection ar trebui închis prin apelul deconectare (). Deconectarea elibereaza resursele de?inute de o conexiune, astfel încât acestea sa poata fi închise sau reutilizate.
+ 
+Pentru a transmite un Request se folosesc urmatoarele functii: 
+* Initierea unui request : RequestQueue ExampleRequestQueue = Volley.newRequestQueue(this);
+* Crearea unui StringRequest : StringRequest stringRequest = new StringRequest(Request.Method.GET, url,new Response.Listener<String>()
+	Pentru crearea unui nou request se foloseste functia add()
+* Se executa functia onResponse() daca serverul raspunde
+* Crearea unui Error Listener pentru posibilele erori new Response.ErrorListener()
+* Functia se executa in cazul aparitiei unei erori onErrorResponse(VolleyError error)
+* Pentru anularea unui Request cancel(), iar pentru anularea tuturor request-urilor se foloseste onStop()

@@ -1,0 +1,4 @@
+#Mon Apr 22 14:27:26 EEST 2019
+base.0=C\:\\Users\\robert.diaconu\\Desktop\\awear\\awear\\03_Source\\02_SmartApp\\AwearApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

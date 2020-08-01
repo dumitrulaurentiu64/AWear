@@ -1,0 +1,12 @@
+Web fetches:
+
+-Fetch-ul folosit pentru datele de logare a unui pacient sau a unui medic este: fetch('/API/Login')
+
+-Fetch-ul folosit pentru datele de warning din baza de date este: fetch('API/Pacients/ID/Warnings')
+-Fetch-ul folosit pentru datele de recomandare din baza de date este: fetch('API/Pacients/ID/Recommandations')
+-Fetch-ul folosit pentru datele primite de la senzori din baza de date este: fetch('API/Pacients/ID/SensorsData')
+-Fetch-ul folosit pentru datele pacientului din baza de date este: fetch('API/Pacients/ID/PacientFile')
+
+-Fetch-ul folosit pentru datele din lista pacientilor din baza de date este: fetch('API/Medics/ID/PacientsList')
+-Fetch-ul folosit pentru datele din lista pacientilor din baza de date in functie de ID-ul acestuia este: 
+fetch('API/Medics/ID/PacientsList/PacientID')

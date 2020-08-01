@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/vector_profile"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/navigation_monitoring"
+        android:icon="@drawable/vector_monitoring"
+        android:title="Monitoring" />
+
+    <item
+        android:id="@+id/navigation_recommendation"
+        android:icon="@drawable/vector_recommendation"
+        android:title="Recommendation" />
+    <item
+        android:id="@+id/navigation_calendar"
+        android:icon="@drawable/vector_calendar"
+        android:title="Calendar" />
+
+</menu>

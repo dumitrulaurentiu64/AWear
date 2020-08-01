@@ -1,0 +1,46 @@
+Platforma Android include suport pentru Bluetooth care permite unui dispozitiv sa faca schimb de date wireless cu alte dispozitive Bluetooth.
+API-urile Android Bluetooth permit aplicatiilor sa se conecteze fara fir la alte dispozitive Bluetooth. 
+Pachetele importate pentru Android si Bluetooth
+import android.app.Activity;
+
+import android.bluetooth.BluetoothAdapter;
+
+import android.content.Intent;
+
+import android.os.Bundle;
+
+import android.view.View;
+
+Din pachetul Bluetooth API-urile de baza sunt:
+
+-BluetoothAdapter 
+	reprezinta adaptorul local Bluetooth 
+"private BluetoothAdapter _bluetooth = BluetoothAdapter.getDefaultAdapter()"
+"Intent enabler = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE); _bluetooth.enable();"
+
+-BluetoothDevice
+	Reprezinta un dispozitiv Bluetooth la distan?a, care con?ine informa?ii despre cum ar fi numele, adresa, clasa ?i starea de legare.
+"private BroadcastReceiver _discoveryReceiver = new BroadcastReceiver()"
+"private BroadcastReceiver _foundReceiver = new BroadcastReceiver()"
+
+-BluetoothSocket
+	Reprezinta interfa?a pentru o socket Bluetooth (similara cu un Socket TCP)
+
+-BluetoothServerSocket
+	Reprezinta un socket de server deschis care asculta pentru cererile primite (similar cu un TCP ServerSocket).
+ Server
+_serverSocket = _bluetooth.listenUsingRfcommWithServiceRecord(PROTOCOL_SCHEME_RFCOMM,
+					UUID.fromString("a60f35f0-b93a-11de-8a39-08002009c666"));
+private void shutdownServer() //STOP SERVER
+
+ Client
+socket = device.createRfcommSocketToServiceRecord(UUID.fromString("a60f35f0-b93a-11de-8a39-08002009c666"));
+
+-BluetoothClass
+	descrie caracteristicile generale ?i capabilita?ile unui dispozitiv Bluetooth.
+"Android/BluetoothHelper.class "
+
+
+Pentru a avea acces la Bluetooth in aplicatie folosim 2 permisiuni: 
+<uses-permission android:name="android.permission.BLUETOOTH" />
+	<uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />

@@ -1,0 +1,46 @@
+WEB - World Wide Web (WWW), cunoscut sub numele de Web, este un spatiu de informare în care documentele si 
+alte resurse web sunt identificate de Uniform Resource Locators (URL-uri, cum ar fi https://www.example.com/), 
+care pot fi interconectate de hipertext si sunt accesibile prin Internet. Resursele WWW 
+pot fi accesate de catre utilizatori printr-o aplicatie software numita browser web.
+
+Handshake - o strângere de mâna este un proces automat de negociere între cei doi care comunica 
+între participanti (exemplu "Alice si Bob") prin schimbul de informatii care stabileste protocoalele 
+unei legaturi de comunicare la începutul comunicarii, înainte de începerea comunicarii complete. 
+De obicei, procesul de strângere de mâna are loc pentru a stabili reguli de comunicare atunci 
+când un computer încearca sa comunice cu un alt dispozitiv. Semnalele sunt de obicei schimbate între doua 
+dispozitive pentru a stabili o legatura de comunicare. De exemplu, atunci când un computer comunica 
+cu un alt dispozitiv, cum ar fi un modem, cele doua dispozitive se vor semnala reciproc 
+ca sunt pornite si sunt pregatite sa lucreze, precum si ca sunt de acord cu protocoalele folosite.
+
+Database - O baza de date este o colectie organizata de date, în general stocata si accesata 
+electronic dintr-un sistem informatic. În cazul în care bazele de date sunt mai complexe, 
+acestea sunt deseori dezvoltate folosind tehnici de proiectare si modelare formale.
+
+Cloud  - O baza de date cloud este o baza de date care ruleaza în mod obisnuit pe o platforma cloud computing, 
+iar accesul la baza de date este furnizat ca a-serviciu.
+
+Bluetooth este un set de specificatii (un standard) pentru o retea personala  fara fir (wireless), bazata pe unde radio.
+Bluetooth mai este cunoscut ca si standardul IEEE 802.15.1. Prin tehnolgia Bluetooth 
+se elimina firele si cablurile între dispozitive atât stationare cât si mobile, faciliteaza
+atât comunicatiile de date cât si pe cele vocale si ofera
+posibilitatea implementarii unor retele ad-hoc si a sincronizarii între diverse dispozitive.
+
+SA sau sistemul de achizitie reprezinta componenta sistemului prin care obtinem informatiile vitale
+ale pacientilor, acesta consta intr-un dispozitiv purtabil pe mana care contine senzori pentru a prelua
+tensiunea arteriala, umiditatea, pulsul si temperatura.
+
+Model de stare - in ingineria sistemelor, o reprezentare a spatiului de stare este un model 
+matematic al unui sistem fizic cu un set de variabile de intrare, iesire si 
+stare asociate ecuatiilor diferentiale de ordinul întâi sau ecuatiilor diferentiale. 
+Variabilele de stare sunt variabile ale caror valori evolueaza în timp într-un mod care depinde de 
+valorile pe care le au la un moment dat si, de asemenea, depinde de valorile impuse extern ale 
+variabilelor de intrare. Valorile variabilelor de iesire depind de valorile variabilelor de stare.
+
+Use Case - În cazul software-ului si sistemelor de inginerie, un caz de 
+utilizare ( use case ) este o lista de actiuni sau pasi de eveniment care definesc 
+în mod obisnuit interactiunile dintre un rol (cunoscut ca un actor în 
+limbajul unificat de modelare (UML)) si un sistem de atingere a unui obiectiv.
+Actorul poate fi un sistem uman sau alt sistem extern. În ingineria sistemelor, 
+cazurile de utilizare sunt utilizate la un nivel mai înalt decât în domeniul ingineriei software, 
+reprezentând adesea misiuni sau obiective ale partilor interesate. Cerintele detaliate pot fi 
+apoi capturate în limbajul sistemelor de modelare (SysML) sau ca declaratii contractuale.
